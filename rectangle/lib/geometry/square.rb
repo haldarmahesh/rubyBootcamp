@@ -1,4 +1,5 @@
 #takes side and finds area and perimeter
+#
 class Square
 
     attr_reader :side
