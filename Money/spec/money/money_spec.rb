@@ -1,8 +1,6 @@
 require 'spec_helper'
 
 describe Money do
-
-
   let( :money1) { Money.new(0) }
   let( :money2) { Money.new(1200) }
   let( :money3) { Money.new(13) }
